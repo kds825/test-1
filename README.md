@@ -11,6 +11,8 @@
 3. 커밋하기
 4. 푸시하기
 
+깃허브 데브를 사용해 문서를 수정 중입니다.
+
 <https://doit-fwd.tistory.com/>
 
 [하루하루 스터디 노트](https://doit-fwd.tistory.com/)
